@@ -1,5 +1,5 @@
 {
-    "name":        "arcanedev/no-captcha",
+    "name":        "Hiz-Grup/no-captcha",
     "description": "No CAPTCHA (new Google reCAPTCHA) with Laravel support",
     "keywords":    ["arcanedev", "recaptcha", "no-captcha", "captcha", "google", "laravel"],
     "homepage":    "https://github.com/ARCANEDEV/noCAPTCHA",
